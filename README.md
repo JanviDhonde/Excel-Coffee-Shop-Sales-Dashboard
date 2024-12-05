@@ -48,7 +48,7 @@ Through this project, I enhanced my understanding of:
 3. Explore sales data interactively using filters for time periods, locations, and product categories.  
 
 ## 🖼️ **Dashboard Preview**  
-![Coffee Shop Sales Dashboard](https://github.com/JanviDhonde/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202024-07-10%20104504.png)  
+![Coffee Shop Sales Dashboard](https://github.com/JanviDhonde/Excel-Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Analysis.png)  
 
 ### 🌟 **Why This Project Matters**  
 Understanding customer behavior and optimizing sales strategies are crucial for enhancing profitability in competitive markets. This dashboard:  
